@@ -1,5 +1,6 @@
 <?php
 
-    echo "Hello Bektemir";
+    echo "Hello world";
+
 
 ?>
