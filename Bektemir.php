@@ -1,6 +1,11 @@
 <?php
 
-    echo "Hello world";
-    echo "yagaw world emes, Bektemir duris";
+    echo "Hello wrld";
+    echo "yagaw wrld emes, Bektemir duris";
+    echo "Men ozgeris kirittim";
+    echo "Men ozgeris kirittim";
+    echo "Men ozgeris kirittim";
+    echo "Men ozgeris kirittim";
+    echo "Men ozgeris kirittim";
 
 ?>
